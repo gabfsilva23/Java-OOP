@@ -7,5 +7,5 @@ So I'm following two courses and aftwards I gonna do something personal that use
 First, the basics, architecture, commands and principles, From the Soft Dev Alex Lee:
 https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ
 
-Second, from professor Guanabara, more oriented to OOP:
+Second, from professor Guanabara, relating to OOP:
 https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
