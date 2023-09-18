@@ -2,7 +2,6 @@ public class DoubleLongFloat {
 
 	public static void main(String[] args) {
 
-		// https://cs.fit.edu/~ryan/java/language/java-data.html
 
 		int a = -9;
 		long b = 99999999999L;
