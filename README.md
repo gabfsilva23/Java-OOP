@@ -8,8 +8,10 @@ So I'm following two courses (bellow) and aftwards I gonna do some projects to e
 
 
 Java COMPLETO Programação Orientada a Objetos + Projetos
+
 https://www.udemy.com/course/java-curso-completo/?couponCode=ST14MT32124
 
 Java SE 11: Programming Complete
 /*I just discovered that there're a certification well known for some devs from Oracle. Gonna try it after the basics!*/
+
 https://mylearn.oracle.com/ou/course/java-se-11-programming-complete/78835
